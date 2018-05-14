@@ -1,1 +1,5 @@
-//Gör något här, kolla w3school för info
+//Gör något här
+function changeText(){
+	var rubrik = document.getElementById('rubrik');
+	rubrik.innerHTML = 'Titta vad duktig jag är!';
+}
