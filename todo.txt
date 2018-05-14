@@ -1,0 +1,33 @@
+3 steg:
+
+1: Kolla bootstrap för hur man gör en grid ( https://getbootstrap.com/docs/4.1/layout/grid/ )
+
+2: Kolla w3school om man är osäker på något
+
+3: Googla runt om du inte fattar något
+
+_________________________
+
+Github:   
+
+Kolla så du har Github desktop
+
+Logga in på github desktop
+
+Clone:a ditt repository till din dator
+
+
+___________________________________
+
+
+Kommentarer: 
+
+Tänkt på att bara kort o tydligt visa vad koden nedan handlar om
+
+
+_______________________________________
+
+
+Sätt att kolla på en html fil på:
+
+den kollar bara uppifrån till botten av html-filen
